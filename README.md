@@ -7,7 +7,7 @@
 
 
 
-我是基于 T5(text-to-text-transfer-transformer)模型的源代码修改的，地址：https://github.com/Shivanandroy/simpleT5。
+我是基于 T5(text-to-text-transfer-transformer)模型的源代码修改的，地址：https://github.com/Shivanandroy/simpleT5
 
 
 
